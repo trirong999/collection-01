@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const url =
-    "https://docs.google.com/spreadsheets/d/e/2PACX-1vQFZT1IWuvf-kv1QACsHkLGlK2a3lStzcXuYxHgN8dZxZ30X2yA-B4IQUKG5b8LewukJ0xOdCH2j5jK/pub?output=csv";
+    "https://docs.google.com/spreadsheets/d/e/2PACX-1vSiQiYOxGlVmX2FjveKUTfDUIbQ6w0l6qEQDbIUFP8Y8uT96wNkBLr6264EIvEu3HiOzQvPYkAEJjBU/pub?output=csv";
   let allCards = [];
 
   fetch(url)
